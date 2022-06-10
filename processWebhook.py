@@ -13,7 +13,7 @@ password = "Arihant4u@"  # fyers_password
 pin = 1949  # your integer pin
 client_id = "X3D0U1H61S-100"  # "L9NY****W-100" (Client_id here refers to APP_ID of the created app)
 secret_key = "SD476OVV6A"  # app_secret key which you got after creating the app
-redirect_uri = "https://smartstrangles.herokuapp.com/api/tf"  # redircet_uri you entered while creating APP.
+redirect_uri = "https://smartstrangles.herokuapp.com/api/tf"  # lets see redircet_uri you entered while creating APP.
 
 def setup():
     headers = {
