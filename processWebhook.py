@@ -65,7 +65,7 @@ def token():
 @app.route('/')
 @app.route('/home')
 def home():
-    return "Fyers Login App"
+    return "Fyers Login App - Test"
 
 if __name__ == "__main__":
     app.secret_key = 'ItIsASecret'
