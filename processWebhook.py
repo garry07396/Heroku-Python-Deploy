@@ -8,7 +8,7 @@ from fyers_api import accessToken
 from fyers_api import fyersModel
 app = flask.Flask(__name__)
 
-username = "XG08959"  # fyers_id
+username = "XG08959"  # fyers_id 
 password = "Arihant4u@"  # fyers_password
 pin = 1949  # your integer pin
 client_id = "X3D0U1H61S-100"  # "L9NY****W-100" (Client_id here refers to APP_ID of the created app)
